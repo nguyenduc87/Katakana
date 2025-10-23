@@ -68,8 +68,8 @@ const questions = [
     { question: "zo đọc là gì?", choices: ["ゾ", "ソ", "ド", "ボ"], answer: "ゾ", hiragana: "ぞ", userAnswer: null },
 
     { question: "da đọc là gì?", choices: ["ダ", "ザ", "ガ", "バ"], answer: "ダ", hiragana: "だ", userAnswer: null },
-    { question: "ji (ぢ) đọc là gì?", choices: ["ヂ", "ジ", "ギ", "ビ"], answer: "ヂ", hiragana: "ぢ", userAnswer: null },
-    { question: "zu (づ) đọc là gì?", choices: ["ヅ", "ズ", "ブ", "グ"], answer: "ヅ", hiragana: "づ", userAnswer: null },
+    { question: "ji đọc là gì?", choices: ["ヂ", "ジ", "ギ", "ビ"], answer: "ヂ", hiragana: "ぢ", userAnswer: null },
+    { question: "zu đọc là gì?", choices: ["ヅ", "ズ", "ブ", "グ"], answer: "ヅ", hiragana: "づ", userAnswer: null },
     { question: "de đọc là gì?", choices: ["デ", "ゼ", "ベ", "ゲ"], answer: "デ", hiragana: "で", userAnswer: null },
     { question: "do đọc là gì?", choices: ["ド", "ゾ", "ボ", "ゴ"], answer: "ド", hiragana: "ど", userAnswer: null },
 
@@ -117,6 +117,10 @@ const questions = [
     { question: "gya đọc là gì?", choices: ["ギャ", "ギュ", "ギョ", "ガ"], answer: "ギャ", hiragana: "ぎゃ", userAnswer: null },
     { question: "gyu đọc là gì?", choices: ["ギュ", "ギョ", "ギャ", "グ"], answer: "ギュ", hiragana: "ぎゅ", userAnswer: null },
     { question: "gyo đọc là gì?", choices: ["ギョ", "ギュ", "ギャ", "ゴ"], answer: "ギョ", hiragana: "ぎょ", userAnswer: null },
+    
+    { question: "ja đọc là gì?", choices: ["ギョ", "ジャ", "ギャ", "ゴ"], answer: "ジャ", hiragana: "じゃ", userAnswer: null },
+    { question: "ju đọc là gì?", choices: ["ジュ", "ジャ", "ジョ", "ゴ"], answer: "ジュ", hiragana: "じゅ", userAnswer: null },
+    { question: "jo đọc là gì?", choices: ["ジュ", "キャ", "ジョ", "ゴ"], answer: "ジョ", hiragana: "じょ", userAnswer: null },
 
     { question: "bya đọc là gì?", choices: ["ビャ", "ビュ", "ビョ", "バ"], answer: "ビャ", hiragana: "びゃ", userAnswer: null },
     { question: "byu đọc là gì?", choices: ["ビュ", "ビョ", "ビャ", "ブ"], answer: "ビュ", hiragana: "びゅ", userAnswer: null },
